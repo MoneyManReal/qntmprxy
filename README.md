@@ -5,4 +5,4 @@ Credits to MoneyManReal and oinate64 for creating and maintaining this proxy.
 # Discord
 Join our community Discord here! https://discord.gg/dwGbx4er 
 # Our Socials
-MoneyManReal - (notatsfr) on discord | oinate64 - (oinate_64) on discord
+MoneyManReal - known as notatsfr on discord | oinate64 - known as oinate_64 on discord
